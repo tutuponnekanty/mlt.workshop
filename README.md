@@ -28,6 +28,8 @@ The primary objectives of this workshop include:
 
 ## Conclusion
 
-This workshop is an opportunity for participants to deepen their knowledge of machine learning while gaining hands-on experience with essential tools and techniques. Whether you are starting your journey in machine learning or looking to refine your skills, this workshop will provide valuable insights and practical applications.
+This workshop is an opportunity for participants to deepen their knowledge of machine learning while gaining hands-on experience with essential tools and techniques. 
+Whether you are starting your journey in machine learning or looking to refine your skills, this workshop will provide valuable insights and practical applications.
+And, here are `my notes and practice` from it.
 
-**Thanks to Karthi sir for an exciting learning experience in Machine Learning Techniques!**
+**Thanks to Karthik sir for an exciting learning experience in Machine Learning Techniques!**
